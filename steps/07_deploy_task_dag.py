@@ -12,8 +12,7 @@
 from datetime import timedelta
 
 #from snowflake.connector import connect
-from snowflake.snowpark import Session
-from snowflake.snowpark import functions as F
+<from snowflake.snowpark import functions as F
 
 from snowflake.core import Root
 from snowflake.core.task import StoredProcedureCall, Task
